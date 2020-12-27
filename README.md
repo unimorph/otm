@@ -6,7 +6,7 @@ Source: [Surrey Morphology Group](https://oto-manguean.surrey.ac.uk/Search/XTY)
 
 Cite:
 > @incollection{otm2015, 
->     title={Oto-manguean inflectional class database: {M}ezquital {O}tomi}, 
+>     title={Oto-manguean inflectional class database: {E}astern {H}ighland {O}tomi}, 
 >     author={Feist, Timothy and Palancar, Enrique L.}, 
 >     editor  = {Feist, Timothy and Palancar, Enrique L.},
 >     year={2015}, 
